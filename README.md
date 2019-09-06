@@ -1,0 +1,2 @@
+# iOSConfuseByChinese
+使用中文混淆iOS的类名和方法名
